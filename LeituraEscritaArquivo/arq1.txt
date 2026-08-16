@@ -1,0 +1,2 @@
+Valor = 67
+Texto no final de tudo
